@@ -7,7 +7,7 @@ docker run \
 --name=opensc2k \
 -d \
 -p 3000:3000 \
-junkcryptobytes/rpi-opensc2k
+vitharme/rpi-opensc2k
 ```
 
 # OpenSC2K

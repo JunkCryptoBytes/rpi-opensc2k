@@ -1,4 +1,5 @@
 FROM resin/raspberry-pi-alpine-node
+MAINTAINER VitharMe <vithar@vithar.me>
 
 ENV PATH /root/.yarn/bin:$PATH
 
